@@ -22,6 +22,8 @@ d) Devido ao alto grau de intrusão, poderão existir falsos alarmes.
 
 e) Devido ao baixo grau de intrusão, os resultados não representarão o código em produção.
 
+
+
 7.- Você está trabalhando em uma automação de uma aplicação legada que possui funcionalidades críticas para o negócio. Uma atualização do sistema foi aprovada e os desenvolvedores planejam utilizar um software de um terceiro para prover a nova funcionalidade. O software terceiro já foi testado, entretanto a interface existente entre o software existente e o novo software é problemática. A sua automação de testes precisa ser estendida para passar a testar a interface entre os dois produtos. Como você planejaria a abordagem de implementação da melhor solução de automação?
 
 a) Desenvolver a automação de testes para o sistema todo incluíndo o legado e o software terceiro.
